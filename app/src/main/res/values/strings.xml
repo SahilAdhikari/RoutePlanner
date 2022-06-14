@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RoutePlanner</string>
+    <string name="google_maps_API_Key">AIzaSyB1x5Z931rFCj-27ynVLsRyuxYz422_TBI</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "360260521510",
+    "project_id": "routeplanner-39e62",
+    "storage_bucket": "routeplanner-39e62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360260521510:android:03e984cafb729d88af60e7",
+        "android_client_info": {
+          "package_name": "com.example.mymaplearning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360260521510-jg634ibmf9l33ko1aa39k8n5ibqmqr0m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mymaplearning",
+            "certificate_hash": "70117503431e0bca9b471f4c937facb33ca07e7e"
+          }
+        },
+        {
+          "client_id": "360260521510-od6racjalr76v027trthr5sidl0ufps3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSellFxXJZATmVRIX7G1GN68PsPnwFNRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360260521510-od6racjalr76v027trthr5sidl0ufps3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
